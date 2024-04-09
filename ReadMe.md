@@ -17,4 +17,4 @@ La tâche principale consistait à mettre à jour le code HTML d'un site existan
 
 ## Démonstration
 
-Pour voir le carrousel en action, [cliquez ici](lien vers la démo).
+Pour voir le carrousel en action, [cliquez ici](https://cheikh-mbacke.github.io/premiers_pas_sur_le_langage_javascript/).
